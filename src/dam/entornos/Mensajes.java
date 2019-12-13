@@ -7,6 +7,7 @@ package dam.entornos;
  * @version 1.0
  * 
  */
+
 public class Mensajes {
 
 	public static void main(String[] args) {
@@ -30,7 +31,13 @@ public class Mensajes {
 	
 	// Pon tu método a partir de aqui
 	
-	
+	private static void AlumnoFila2PC6() {
+		System.out.println("====================================");
+		System.out.println("Hola, soc OLIVER ALUMNO DE DAM");
+		System.out.println("FELIÇ ANY 2020 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
+	}	
 	
 	
 }
