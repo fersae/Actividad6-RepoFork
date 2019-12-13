@@ -14,6 +14,7 @@ public class Mensajes {
 	
 		// Este rozo de código no debe modificarse
 		mensajeProfesor();
+		AlumnoFila2PC6();
 		//
 		// Pon la llamada a tu método a partir de aqui
 			
