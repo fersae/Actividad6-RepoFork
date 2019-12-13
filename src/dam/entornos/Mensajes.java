@@ -16,7 +16,7 @@ public class Mensajes {
 		//
 		// Pon la llamada a tu método a partir de aqui
 			
-		
+		mensajeAlumnofila2PC25();
 	}
 	
 	// no modifiques este método
@@ -30,6 +30,9 @@ public class Mensajes {
 	
 	// Pon tu método a partir de aqui
 	
+private static void mensajeAlumnofila2PC25(){
+
+System.out.println("Hola soc Josep Climent Martinez i us desitje un bon any! "
 	
 	
 	
