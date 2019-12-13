@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		alumnoFila4PC5();
 		
 	}
 	
@@ -29,8 +29,10 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
-	
-	
+	private static void alumnoFila4PC5() {
+		System.out.println("Hola a totes i tots, sóc Ignacio");
+		System.out.println("Bon Nadal i feliç 11111100100!!!");
+	}
 	
 	
 }
