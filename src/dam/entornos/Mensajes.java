@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		AlumnoFila2PC3();	
 		
 	}
 	
@@ -30,7 +30,10 @@ public class Mensajes {
 	
 	// Pon tu método a partir de aqui
 	
-	
+	public static void AlumnoFila2PC3() {
+		System.out.println("Bons nadals");
+		System.out.println("Juanjo Nadal");
+	}
 	
 	
 }
