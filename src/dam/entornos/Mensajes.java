@@ -7,15 +7,26 @@ package dam.entornos;
  * @version 1.0
  *
  */
+
 public class Mensajes {
 
 	public static void main(String[] args) {
 
 		// Este trozo de código no debe modificarse
 		mensajeProfesor();
-
 		// Pon la llamada a tu método a partir de aqui
-		AlumnoFila1PC6();
+    
+
+    AlumnoFila1PC6();
+			
+		mensajeAlumnofila2PC25();
+
+		alumnoFila4PC5();
+
+		AlumnoFila2PC3();	
+
+    AlumnoFila2PC6();
+
 	}
 
 	// no modifiques este método
@@ -28,6 +39,7 @@ public class Mensajes {
 	}
 
 	// Pon tu método a partir de aqui
+
 	private static void AlumnoFila1PC6() {
 
 		System.out.println("====================================");
@@ -37,4 +49,33 @@ public class Mensajes {
                 System.out.println();
 
 	}
+
+
+	private static void alumnoFila4PC5() {
+		System.out.println("Hola a totes i tots, sóc Ignacio");
+		System.out.println("Bon Nadal i feliç 11111100100!!!");
+
+  }
+
+  private static void mensajeAlumnofila2PC25(){
+
+    System.out.println("Hola soc Josep Climent Martinez i us desitje un bon any! "
+	
+  }
+                       
+	public static void AlumnoFila2PC3() {
+		System.out.println("Bons nadals");
+		System.out.println("Juanjo Nadal");
+
+	}
+                       
+	private static void AlumnoFila2PC6() {
+		System.out.println("====================================");
+		System.out.println("Hola, soc OLIVER ALUMNO DE DAM");
+		System.out.println("FELIÇ ANY 2020 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
+	}	
+
+
 }

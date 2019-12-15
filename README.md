@@ -1,6 +1,6 @@
 # Actividad6-RepoFork
 ## Repositorio para hacer fork.
-
+ He modificado el .java para desear un feliz año
 ### -------------------- INSTRUCCIONES --------------------------
 ###### ATENCIÓN NO DEBES MODIFICAR ESTAS INSTRUCCIONES
 ### Después del fork:
@@ -31,10 +31,10 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila1PC5
+HE AÑADIDO AL PROGRAMA JAVA LA FUNCION DE QUE FELICITE EL AÑO NUEVO CON MI NOMBRE
 
 
 #### AlumnoFila1PC6
-
 Dir el meu nom i felicitar el nou any
 
 
@@ -44,7 +44,7 @@ Dir el meu nom i felicitar el nou any
 #### AlumnoFila2PC2
 
 
-#### AlumnoFila2PC3
+#### AlumnoFila2PC3 Añadido metodo AlumnoFila2PC3 que imprime un mensaje de felicitacion para estas festividades
 
 
 #### AlumnoFila2PC4
@@ -54,6 +54,7 @@ Dir el meu nom i felicitar el nou any
 
 
 #### AlumnoFila2PC6
+
 
 
 
@@ -90,6 +91,7 @@ Dir el meu nom i felicitar el nou any
 
 #### AlumnoFila4PC5
 
+Afegida felicitació al repositori
 
 #### AlumnoFila4PC6
 
