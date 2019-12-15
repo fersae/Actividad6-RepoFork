@@ -14,10 +14,15 @@ public class Mensajes {
 	
 		// Este rozo de código no debe modificarse
 		mensajeProfesor();
-		AlumnoFila2PC6();
+		
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+
+		alumnoFila4PC5();
+
+		AlumnoFila2PC3();	
+
+    AlumnoFila2PC6();
 		
 	}
 	
@@ -31,7 +36,17 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
+
+	private static void alumnoFila4PC5() {
+		System.out.println("Hola a totes i tots, sóc Ignacio");
+		System.out.println("Bon Nadal i feliç 11111100100!!!");
+
 	
+	public static void AlumnoFila2PC3() {
+		System.out.println("Bons nadals");
+		System.out.println("Juanjo Nadal");
+
+	}
 	private static void AlumnoFila2PC6() {
 		System.out.println("====================================");
 		System.out.println("Hola, soc OLIVER ALUMNO DE DAM");
@@ -39,6 +54,7 @@ public class Mensajes {
 		System.out.println("====================================");
 		System.out.println();
 	}	
+
 	
 	
 }
