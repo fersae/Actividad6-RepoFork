@@ -7,12 +7,14 @@ package dam.entornos;
  * @version 1.0
  * 
  */
+
 public class Mensajes {
 
 	public static void main(String[] args) {
 	
 		// Este rozo de código no debe modificarse
 		mensajeProfesor();
+		
 		//
 		// Pon la llamada a tu método a partir de aqui
 
@@ -20,6 +22,7 @@ public class Mensajes {
 
 		AlumnoFila2PC3();	
 
+    AlumnoFila2PC6();
 		
 	}
 	
@@ -44,6 +47,14 @@ public class Mensajes {
 		System.out.println("Juanjo Nadal");
 
 	}
+	private static void AlumnoFila2PC6() {
+		System.out.println("====================================");
+		System.out.println("Hola, soc OLIVER ALUMNO DE DAM");
+		System.out.println("FELIÇ ANY 2020 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
+	}	
+
 	
 	
 }
