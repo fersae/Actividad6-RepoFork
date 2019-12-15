@@ -31,11 +31,12 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila1PC5
+HE AÑADIDO AL PROGRAMA JAVA LA FUNCION DE QUE FELICITE EL AÑO NUEVO CON MI NOMBRE
 
 
 #### AlumnoFila1PC6
+Dir el meu nom i felicitar el nou any
 
-//HE AÑADIDO AL PROGRAMA JAVA LA FUNCION DE QUE FELICITE EL AÑO NUEVO CON MI NOMBRE
 
 #### AlumnoFila2PC1
 
