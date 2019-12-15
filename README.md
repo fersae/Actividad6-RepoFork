@@ -35,7 +35,7 @@ Os deseo un feliz año 2020 !!!
 
 #### AlumnoFila1PC6
 
-
+//HE AÑADIDO AL PROGRAMA JAVA LA FUNCION DE QUE FELICITE EL AÑO NUEVO CON MI NOMBRE
 
 #### AlumnoFila2PC1
 
@@ -43,7 +43,7 @@ Os deseo un feliz año 2020 !!!
 #### AlumnoFila2PC2
 
 
-#### AlumnoFila2PC3
+#### AlumnoFila2PC3 Añadido metodo AlumnoFila2PC3 que imprime un mensaje de felicitacion para estas festividades
 
 
 #### AlumnoFila2PC4
@@ -53,6 +53,7 @@ Os deseo un feliz año 2020 !!!
 
 
 #### AlumnoFila2PC6
+
 
 
 
@@ -89,6 +90,7 @@ Os deseo un feliz año 2020 !!!
 
 #### AlumnoFila4PC5
 
+Afegida felicitació al repositori
 
 #### AlumnoFila4PC6
 
