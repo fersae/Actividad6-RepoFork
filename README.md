@@ -42,7 +42,7 @@ Dir el meu nom i felicitar el nou any
 
 
 #### AlumnoFila2PC2
-
+No me deja hacer el pull request 
 
 #### AlumnoFila2PC3 Añadido metodo AlumnoFila2PC3 que imprime un mensaje de felicitacion para estas festividades
 
